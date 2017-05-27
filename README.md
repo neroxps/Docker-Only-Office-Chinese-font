@@ -9,7 +9,7 @@
 ```
 git clone https://github.com/neroxps/Docker-Only-Office-Chinese-font.git
 cd Docker-Only-Office-Chinese-font
-docker build -t onlyoffice/Chinese
+docker build -t onlyoffice/chinese .
 ```
 
 待镜像构建完毕后，即可使用。
